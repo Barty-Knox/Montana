@@ -1,0 +1,375 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:29] filterscripts = ""  (string)
+[15:25:29] 
+[15:25:29] Server Plugins
+[15:25:29] --------------
+[15:25:29]  Loading plugin: crashdetect
+[15:25:29]   CrashDetect plugin 4.19.4
+[15:25:29]   Loaded.
+[15:25:29]  Loading plugin: mysql
+[15:25:30] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: pawncmd
+[15:25:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: sscanf
+[15:25:30] 
+
+[15:25:30]  ===============================
+
+[15:25:30]       sscanf plugin loaded.     
+
+[15:25:30]          Version:  2.8.3        
+
+[15:25:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:25:30]  ===============================
+
+[15:25:30]   Loaded.
+[15:25:30]  Loading plugin: streamer
+[15:25:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:25:30]   Loaded.
+[15:25:30]  Loaded 5 plugins.
+
+[15:25:30] 
+[15:25:30] Filterscripts
+[15:25:30] ---------------
+[15:25:30]   Loaded 0 filterscripts.
+
+[15:25:30] [debug] Run time error 19: "File or function is not found"
+[15:25:30] [debug]  cache_get_data
+[15:25:30] [debug]  cache_get_field_content_int
+[15:25:30] [debug]  cache_get_field_content
+[15:25:30] [debug]  mysql_format
+[15:25:30] [debug]  mysql_tquery
+[15:25:30] [debug]  cache_get_row_int
+[15:25:30] [debug]  cache_get_row
+[15:25:30] [debug]  cache_get_row_float
+[15:25:30] [debug]  mysql_log
+[15:25:30] [debug] Run time error 19: "File or function is not found"
+[15:25:30] [debug]  cache_get_data
+[15:25:30] [debug]  cache_get_field_content_int
+[15:25:30] [debug]  cache_get_field_content
+[15:25:30] [debug]  mysql_format
+[15:25:30] [debug]  mysql_tquery
+[15:25:30] [debug]  cache_get_row_int
+[15:25:30] [debug]  cache_get_row
+[15:25:30] [debug]  cache_get_row_float
+[15:25:30] [debug]  mysql_log
+[15:25:30] Script[gamemodes/wol.amx]: Run time error 19: "File or function is not found"
+[15:25:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:59] filterscripts = ""  (string)
+[15:25:59] 
+[15:25:59] Server Plugins
+[15:25:59] --------------
+[15:25:59]  Loading plugin: crashdetect
+[15:25:59]   CrashDetect plugin 4.19.4
+[15:25:59]   Loaded.
+[15:25:59]  Loading plugin: mysql
+[15:25:59] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[15:25:59]   Loaded.
+[15:25:59]  Loading plugin: pawncmd
+[15:25:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:25:59]   Loaded.
+[15:25:59]  Loading plugin: sscanf
+[15:25:59] 
+
+[15:25:59]  ===============================
+
+[15:25:59]       sscanf plugin loaded.     
+
+[15:25:59]          Version:  2.8.3        
+
+[15:25:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:25:59]  ===============================
+
+[15:25:59]   Loaded.
+[15:25:59]  Loading plugin: streamer
+[15:25:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:25:59]   Loaded.
+[15:25:59]  Loaded 5 plugins.
+
+[15:25:59] 
+[15:25:59] Filterscripts
+[15:25:59] ---------------
+[15:25:59]   Loaded 0 filterscripts.
+
+[15:25:59] [debug] Run time error 19: "File or function is not found"
+[15:25:59] [debug]  cache_get_data
+[15:25:59] [debug]  cache_get_field_content_int
+[15:25:59] [debug]  cache_get_field_content
+[15:25:59] [debug]  mysql_format
+[15:25:59] [debug]  mysql_tquery
+[15:25:59] [debug]  cache_get_row_int
+[15:25:59] [debug]  cache_get_row
+[15:25:59] [debug]  cache_get_row_float
+[15:25:59] [debug]  mysql_log
+[15:25:59] [debug] Run time error 19: "File or function is not found"
+[15:25:59] [debug]  cache_get_data
+[15:25:59] [debug]  cache_get_field_content_int
+[15:25:59] [debug]  cache_get_field_content
+[15:25:59] [debug]  mysql_format
+[15:25:59] [debug]  mysql_tquery
+[15:25:59] [debug]  cache_get_row_int
+[15:25:59] [debug]  cache_get_row
+[15:25:59] [debug]  cache_get_row_float
+[15:25:59] [debug]  mysql_log
+[15:25:59] Script[gamemodes/wol.amx]: Run time error 19: "File or function is not found"
+[15:25:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:41:16] filterscripts = ""  (string)
+[21:41:16] 
+[21:41:16] Server Plugins
+[21:41:16] --------------
+[21:41:16]  Loading plugin: crashdetect
+[21:41:16]   CrashDetect plugin 4.19.4
+[21:41:16]   Loaded.
+[21:41:16]  Loading plugin: mysql
+[21:41:16] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[21:41:16]   Loaded.
+[21:41:16]  Loading plugin: pawncmd
+[21:41:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:41:16]   Loaded.
+[21:41:16]  Loading plugin: sscanf
+[21:41:16] 
+
+[21:41:16]  ===============================
+
+[21:41:16]       sscanf plugin loaded.     
+
+[21:41:16]          Version:  2.8.3        
+
+[21:41:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:41:16]  ===============================
+
+[21:41:16]   Loaded.
+[21:41:16]  Loading plugin: streamer
+[21:41:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:41:16]   Loaded.
+[21:41:16]  Loaded 5 plugins.
+
+[21:41:16] 
+[21:41:16] Filterscripts
+[21:41:16] ---------------
+[21:41:16]   Loaded 0 filterscripts.
+
+[21:41:16] [debug] Run time error 19: "File or function is not found"
+[21:41:16] [debug]  cache_get_data
+[21:41:16] [debug]  cache_get_field_content_int
+[21:41:16] [debug]  cache_get_field_content
+[21:41:16] [debug]  mysql_format
+[21:41:16] [debug]  mysql_tquery
+[21:41:16] [debug]  cache_get_row_int
+[21:41:16] [debug]  cache_get_row
+[21:41:16] [debug]  cache_get_row_float
+[21:41:16] [debug]  mysql_log
+[21:41:16] [debug] Run time error 19: "File or function is not found"
+[21:41:16] [debug]  cache_get_data
+[21:41:16] [debug]  cache_get_field_content_int
+[21:41:16] [debug]  cache_get_field_content
+[21:41:16] [debug]  mysql_format
+[21:41:16] [debug]  mysql_tquery
+[21:41:16] [debug]  cache_get_row_int
+[21:41:16] [debug]  cache_get_row
+[21:41:16] [debug]  cache_get_row_float
+[21:41:16] [debug]  mysql_log
+[21:41:16] Script[gamemodes/wol.amx]: Run time error 19: "File or function is not found"
+[21:41:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:42:14] filterscripts = ""  (string)
+[21:42:14] 
+[21:42:14] Server Plugins
+[21:42:14] --------------
+[21:42:14]  Loading plugin: crashdetect
+[21:42:14]   CrashDetect plugin 4.19.4
+[21:42:14]   Loaded.
+[21:42:14]  Loading plugin: mysql
+[21:42:14]  >> plugin.mysql: R39-6 successfully loaded.
+[21:42:14]   Loaded.
+[21:42:14]  Loading plugin: pawncmd
+[21:42:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:42:14]   Loaded.
+[21:42:14]  Loading plugin: sscanf
+[21:42:14] 
+
+[21:42:14]  ===============================
+
+[21:42:14]       sscanf plugin loaded.     
+
+[21:42:14]          Version:  2.8.3        
+
+[21:42:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:42:14]  ===============================
+
+[21:42:14]   Loaded.
+[21:42:14]  Loading plugin: streamer
+[21:42:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:42:14]   Loaded.
+[21:42:14]  Loaded 5 plugins.
+
+[21:42:14] 
+[21:42:14] Filterscripts
+[21:42:14] ---------------
+[21:42:14]   Loaded 0 filterscripts.
+
+[21:42:14] GANGZONE 0 
+[21:42:14] GANGZONE 0 
+[21:42:14] GANGZONE 0 
+[21:42:14] GANGZONE 0 
+[21:42:14] GANGZONE 0 
+[21:42:14] Подключение к базе успешно
+[21:42:14] ===============================================================================
+[21:42:14]                         подключение успешно установлено                        
+[21:42:14] ===============================================================================
+[21:42:14]  
+[21:42:14] Number of vehicle models: 73
+[21:42:15] ===============================================================================
+[21:42:15] [Загрузкa]	АЗС		|	Загружено 60
+[21:42:15] [Загрузкa] 	Бизнесы		|	Загружено 33
+[21:42:15] [Загрузкa]	Мастерские		|	Загружено 6
+[21:42:15] [Загрузкa]	Дома		|	Загружено 3999
+[21:42:15] ===============================================================================
+[21:42:15] 
+[21:42:15] 
+[21:42:15] 
+[21:42:40] [connection] 127.0.0.1:52524 requests connection cookie.
+[21:42:41] [connection] incoming connection: 127.0.0.1:52524 id: 0
+[21:42:41] [join] Barty_Knox has joined the server (0:127.0.0.1)
+[21:42:41] OnPlayerConnect
+[21:42:52] OnPlayerRequestClass
+[21:45:01] Аккаунт Barty_Knox был успешно сохранён.(2207)
+[21:45:01] [part] Barty_Knox has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:04:18] filterscripts = ""  (string)
+[23:04:18] 
+[23:04:18] Server Plugins
+[23:04:18] --------------
+[23:04:18]  Loading plugin: crashdetect
+[23:04:18]   CrashDetect plugin 4.19.4
+[23:04:18]   Loaded.
+[23:04:18]  Loading plugin: mysql
+[23:04:18]  >> plugin.mysql: R39-6 successfully loaded.
+[23:04:18]   Loaded.
+[23:04:18]  Loading plugin: pawncmd
+[23:04:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:04:18]   Loaded.
+[23:04:18]  Loading plugin: sscanf
+[23:04:18] 
+
+[23:04:18]  ===============================
+
+[23:04:18]       sscanf plugin loaded.     
+
+[23:04:18]          Version:  2.8.3        
+
+[23:04:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:04:18]  ===============================
+
+[23:04:18]   Loaded.
+[23:04:18]  Loading plugin: streamer
+[23:04:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:04:18]   Loaded.
+[23:04:18]  Loaded 5 plugins.
+
+[23:04:18] 
+[23:04:18] Filterscripts
+[23:04:18] ---------------
+[23:04:18]   Loaded 0 filterscripts.
+
+[23:04:18] GANGZONE 0 
+[23:04:18] GANGZONE 0 
+[23:04:18] GANGZONE 0 
+[23:04:18] GANGZONE 0 
+[23:04:18] GANGZONE 0 
+[23:04:18] Подключение к базе успешно
+[23:04:18] ===============================================================================
+[23:04:18]                         подключение успешно установлено                        
+[23:04:18] ===============================================================================
+[23:04:18]  
+[23:04:18] Number of vehicle models: 73
+[23:04:19] ===============================================================================
+[23:04:19] [Загрузкa]	АЗС		|	Загружено 60
+[23:04:19] [Загрузкa] 	Бизнесы		|	Загружено 33
+[23:04:19] [Загрузкa]	Мастерские		|	Загружено 6
+[23:04:19] [Загрузкa]	Дома		|	Загружено 3999
+[23:04:19] ===============================================================================
+[23:04:19] 
+[23:04:19] 
+[23:04:19] 
+[23:04:56] [connection] 127.0.0.1:58471 requests connection cookie.
+[23:04:57] [connection] incoming connection: 127.0.0.1:58471 id: 0
+[23:04:57] [join] Barty_Knox has joined the server (0:127.0.0.1)
+[23:04:57] OnPlayerConnect
+[23:05:07] OnPlayerRequestClass
+[23:05:57] Barty_Knox[0] /й
+[23:05:59] Аккаунт Barty_Knox был успешно сохранён.(2207)
+[23:05:59] [part] Barty_Knox has left the server (0:1)
